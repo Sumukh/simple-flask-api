@@ -1,6 +1,6 @@
 # Simple Flask API
 
-A quick starting point for quick API only flask applications. This is intended for quick flask API that may not reused or developed much more.
+A quick starting point for small API only flask applications. This is intended for quick flask APIs that may not be developed much more.
 
 # Setup
 ```
